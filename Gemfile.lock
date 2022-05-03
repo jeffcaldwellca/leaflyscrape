@@ -5,18 +5,20 @@ GEM
       multi_xml (>= 0.5.2)
     mini_portile2 (2.4.0)
     multi_xml (0.6.0)
-    mustermann (1.0.3)
+    mustermann (1.1.1)
+      ruby2_keywords (~> 0.0.1)
     nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     rack (2.2.3)
-    rack-protection (2.0.2)
+    rack-protection (2.2.0)
       rack
-    sinatra (2.0.2)
+    ruby2_keywords (0.0.5)
+    sinatra (2.2.0)
       mustermann (~> 1.0)
-      rack (~> 2.0)
-      rack-protection (= 2.0.2)
+      rack (~> 2.2)
+      rack-protection (= 2.2.0)
       tilt (~> 2.0)
-    tilt (2.0.9)
+    tilt (2.0.10)
 
 PLATFORMS
   ruby
